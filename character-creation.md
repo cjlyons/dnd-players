@@ -45,9 +45,35 @@ Which pillars of play are you most interested in?
 3. Select a species - [Species Guides](./species-guides.md)
 4. Choose your alignment - [Alignment Guide](./alignment-guides.md)
 5. Choose ability scores and fill in the details - Break out:
+
    1. the Players Handbook
    2. a [Character Sheet](./2024_rules/DnD_2024_CharacterSheet_FormFillable.pdf)
    3. a [Background Template](./2024_rules/DnD_2024_CharacterBackground.docx)
+
+      1. Create a good back story:
+
+         - Where did you grow up? connection to locations and people
+         - Where is your family from? who raised you? mentors, family (parents, siblings, etc), teachers
+         - Who is important to you? name someone from the past that is still alive, someone that your character currently interects with (friend, rival, something else?), someone that your character knows of and admires or despises but doesnt know well yet
+         - Is ancestry/species history important to you? or did you grow up without knowledge of your species culture?
+         - How did you learn your skills and come by your origin
+         - Where do you live now? preferably a location near where the campaign begins
+         - Why did you choose your class? turning point, any mentors, important locations
+         - What motivated your character to become an adventurer? was there a specific turning point / inciting incident?
+         - What are your current goals and motivations?
+         - What are your long term aspirations?
+
+      2. Traits or quirks that can help bring your character to life
+         - The brave fool. reckless overconfidence. what's the worst that could happen? (eg Star Lord from Guardians of the Galaxy)
+         - Insatiable greed or appetites (eg Rocket from Guardians of the Galaxy: i need that guy's arm)
+         - Has quotes/rules/songs for every occasion (holy book, rule book, quote a philospher or "the art of war", bard has a song for very situation, dad jokes)
+         - Follows a specific moral code (try not to make it too hard to live by, eg a pacifist would be challenging)
+         - Irrational fears or superstitions - don't be afraid to give them a fantasy flair. Don't make them too hard to live with, eg no dibilitating fear of dungeons or dragons.
+         - Hopelessly naive (eg Mantis from Guardians of the Galaxy)
+         - Actively dimitted (eg Drax from Guardians of the Galaxy)
+         - Socially awkward extrovert (eg Deadpool)
+         - Sleezeball salesman
+         - The caregiver - always taking care of the group like they're family, very protective, mothering
 
 [back to top](#character-creation)
 
