@@ -39,7 +39,7 @@ D&D is a collaborative experience, so the group should discuss:
 Session 0 is the time to:
 
 - **Build characters together**, ensuring a balanced party with shared goals.
-  - Use the [Character Creation Guide](../character-creation.md) to help undersand the process and get ideas
+  - Use the [Character Creation Guide](./character-creation.md) to help undersand the process and get ideas
 - **Discuss backstories and connections**—do the characters already know each other?
 - **Align motivations**—why is your character joining this adventure?
 - **Coordinate abilities**—avoiding four rogues and no healers (unless that’s the plan!).
