@@ -2,10 +2,16 @@
 
 # Character Creation
 
-1. [Creating a balanced party](#a-balanced-party)
-2. [Character Creation Process](#character-creation-1)
-3. [Examples of Full Characters](#full-character-examples)
-4. [Examples of Character class, subclass, species, & origin](#examples-character-class-subclass-species--origin)
+- [Character Creation](#character-creation)
+  - [A balanced party](#a-balanced-party)
+  - [Character Creation](#character-creation-1)
+    - [Steps](#steps)
+  - [Full Character Examples](#full-character-examples)
+  - [Examples: Character class, subclass, species, \& origin](#examples-character-class-subclass-species--origin)
+    - [Healers](#healers)
+    - [Fighters](#fighters)
+    - [Spellcasters](#spellcasters)
+    - [Thieves](#thieves)
 
 ## A balanced party
 
@@ -83,15 +89,17 @@ Which pillars of play are you most interested in?
 
 - These are based on the DnD 2024 rules
 
-| Class                                                                       | Species    | Background                                                                                                                                        |
-| --------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Barbarian](./2024_rules/Character_Examples/DnD_2024_PC_Barbarian.pdf)      | Goliath    | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Barbarian_Female.md) / [Male](./2024_rules/Character_Examples/DnD_2024_PC_Barbarian_Male.md) |
-| [Bard](./2024_rules/Character_Examples/DnD_2024_PC_Bard.pdf)                | Human      | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Bard_Female.md) / [Male](./2024_rules/Character_Examples/DnD_2024_PC_Bard_Male.md)           |
-| [Cleric](./2024_rules/Character_Examples/DnD_2024_PC_Cleric.pdf)            | Aasimar    | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Cleric_Female.md) / [Male](./2024_rules/Character_Examples/DnD_2024_PC_Cleric_Male.md)       |
-| [Druid](./2024_rules/Character_Examples/DnD_2024_PC_Druid.pdf)              | Wood Elf   | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Druid_Female.md)                                                                             |
-| [Rogue](./2024_rules/Character_Examples/DnD_2024_PC_Rogue.pdf)              | Halfling   | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Rogue_Female.md) / [Male](./2024_rules/Character_Examples/DnD_2024_PC_Rogue_Male.md)         |
-| [Warlock/Sorceror](./2024_rules/Character_Examples/DnD_2024_PC_Sorlock.pdf) | Dragonborn | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Sorlock_Female.md) / [Male](./2024_rules/Character_Examples/DnD_2024_PC_Sorlock_Male.md)     |
-| [Wizard](./2024_rules/Character_Examples/DnD_2024_PC_Wizrard.pdf)           | Human      | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Wizard_Female.md) / [Male](./2024_rules/Character_Examples/DnD_2024_PC_Wizard_Male.md)       |
+| Class                                                                                    | Species         | Background                                                                                                                                        |
+| ---------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Barbarian](./2024_rules/Character_Examples/DnD_2024_PC_Barbarian.pdf)                   | Goliath         | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Barbarian_Female.md) / [Male](./2024_rules/Character_Examples/DnD_2024_PC_Barbarian_Male.md) |
+| [Bard](./2024_rules/Character_Examples/DnD_2024_PC_Bard.pdf)                             | Human           | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Bard_Female.md) / [Male](./2024_rules/Character_Examples/DnD_2024_PC_Bard_Male.md)           |
+| [Cleric](./2024_rules/Character_Examples/DnD_2024_PC_Cleric.pdf)                         | Aasimar         | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Cleric_Female.md) / [Male](./2024_rules/Character_Examples/DnD_2024_PC_Cleric_Male.md)       |
+| [Druid](./2024_rules/Character_Examples/DnD_2024_PC_Druid.pdf)                           | Wood Elf        | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Druid_Female.md)                                                                             |
+| [Fighter](./2024_rules/Character_Examples/DnD_2024_PC_Fighter.pdf)                       | Dwarf           | [Male](./2024_rules/Character_Examples/DnD_2024_PC_Fighter_Male.md)                                                                               |
+| [Fighter/Warlock](./2024_rules/Character_Examples/DnD_2024_PC_Warlock-Blade-Archfey.pdf) | Goliath (Cloud) | [Male](./2024_rules/Character_Examples/DnD_2024_PC_Warlock-Blade-Archfey.md)                                                                      |
+| [Rogue](./2024_rules/Character_Examples/DnD_2024_PC_Rogue.pdf)                           | Halfling        | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Rogue_Female.md) / [Male](./2024_rules/Character_Examples/DnD_2024_PC_Rogue_Male.md)         |
+| [Warlock/Sorceror](./2024_rules/Character_Examples/DnD_2024_PC_Sorlock.pdf)              | Dragonborn      | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Sorlock_Female.md) / [Male](./2024_rules/Character_Examples/DnD_2024_PC_Sorlock_Male.md)     |
+| [Wizard](./2024_rules/Character_Examples/DnD_2024_PC_Wizrard.pdf)                        | Human           | [Female](./2024_rules/Character_Examples/DnD_2024_PC_Wizard_Female.md) / [Male](./2024_rules/Character_Examples/DnD_2024_PC_Wizard_Male.md)       |
 
 [back to top](#character-creation)
 
