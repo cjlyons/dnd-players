@@ -14,6 +14,21 @@
 
 ## Back Story
 
+- [Garruk Stonefury, the Unyielding](#garruk-stonefury-the-unyielding)
+  - [Back Story](#back-story)
+    - [**Born to Battle**](#born-to-battle)
+    - [**A Spirit That Couldn't Be Contained**](#a-spirit-that-couldnt-be-contained)
+    - [**Arrival in Greyhawk**](#arrival-in-greyhawk)
+    - [**Personality, Beliefs, Quirks, \& Mannerisms**](#personality-beliefs-quirks--mannerisms)
+      - [**Personality**](#personality)
+      - [**Physical Presence \& Mannerisms**](#physical-presence--mannerisms)
+      - [**Speech \& Expression**](#speech--expression)
+      - [**Beliefs \& Code of Honor**](#beliefs--code-of-honor)
+      - [**Habits \& Quirks**](#habits--quirks)
+      - [**Relationships \& Social Interactions**](#relationships--social-interactions)
+      - [**Potential Weaknesses \& Conflicts**](#potential-weaknesses--conflicts)
+      - [**Bringing Garruk to Life in Roleplay**](#bringing-garruk-to-life-in-roleplay)
+
 ### **Born to Battle**
 
 Garruk Stonefury was born in the harsh, snow-laden peaks of the
@@ -64,7 +79,9 @@ sellswords.
 3.  He found a band of adventurers, warriors who sought danger,
     treasure, and battle, and knew that this was where he belonged.
 
-### **Personality & Beliefs**
+### **Personality, Beliefs, Quirks, & Mannerisms**
+
+#### **Personality**
 
 1.  Loyal & Pragmatic -- Though he has embraced the chaos of adventure,
     Garruk still follows the Goliath code of honor: trust must be
@@ -78,3 +95,59 @@ sellswords.
 3.  Thrives on Challenge -- He doesn't seek bloodshed for bloodshed's
     sake, but he believes that only through struggle can one become
     truly strong.
+
+#### **Physical Presence & Mannerisms**
+
+- **Towering Stature:** Garruk looms over most people and unconsciously takes up a lot of space. He might stand with arms crossed, widen his stance in a challenge, or crack his knuckles when eager for a fight.
+- **Booming Laughter:** His laugh is **loud, hearty, and infectious**, often echoing through taverns and battlefields alike.
+- **Grins at Danger:** When a fight is about to begin, he **grins rather than scowls**, savoring the challenge ahead.
+- **Combat Reflexes:** Even outside of battle, he might instinctively size people up, stand with his back to a wall, or shift into a combat stance when startled.
+- **Heavy Footfalls:** He **doesn't sneak well**—his steps are deliberate, and his presence is always felt.
+
+#### **Speech & Expression**
+
+- **Blunt & Direct:** Garruk speaks plainly and doesn’t sugarcoat his words. “If you are weak, get stronger. If you are slow, run faster.”
+- **Laconic Wisdom:** He isn’t dumb, but he prefers wisdom delivered in **short, punchy phrases**. “Strength is earned.” “Pain means you’re still alive.”
+- **Battle Boasts:** After fights, he might loudly recount how many foes he felled, how strong they were, or how little effort it took.
+- **"That Was a Good Fight" Mentality:** Whether he wins or loses, if the fight was _challenging_, he respects it. If it was easy, he’s unimpressed.
+- **Nickname Giver:** He might give people nicknames based on their strength, speed, or how they fight. A rogue might be “Shadow-Step,” while a weak noble might be “Feather-Arms.”
+
+#### **Beliefs & Code of Honor**
+
+- **Oaths Are Sacred:** If he swears something, **he will not break his word**—even if it costs him.
+- **Strength Must Be Proven:** He does not respect inherited power—only what is earned through struggle.
+- **Survival of the Strong (But Not Cruelty):** He isn’t needlessly violent, but he believes hardship is what forges strength. He might encourage an ally to train harder instead of offering pity.
+- **Respect for Worthy Foes:** If he fights an opponent who proves themselves, he respects them—perhaps even offering them a drink afterward.
+- **Disdain for Deception:** While not necessarily against trickery in combat, he dislikes outright **cowardice, betrayal, or fighting without honor.**
+
+#### **Habits & Quirks**
+
+- **Wakes Up Before Dawn:** His tribe’s discipline still runs strong, and he’s usually up before everyone else, exercising or scouting.
+- **Competitive with Everything:** If someone challenges him to a drinking contest, a foot race, or an arm-wrestling match, he _cannot resist_.
+- **Collects Trophies from Great Battles:** He might take a tooth, weapon, or scrap of armor from a defeated foe as a reminder of the fight.
+- **Eats Like a Warrior:** Big, hearty meals—meat, bread, ale. No patience for tiny, delicate food.
+- **Struggles with Delicate Work:** He **breaks quills when trying to write**, **holds mugs too hard**, and **might accidentally crush a handshake** if not careful.
+
+#### **Relationships & Social Interactions**
+
+- **Loyal to the End:** If you earn his trust, he will stand by you no matter what.
+- **Respects Leaders Who Lead by Example:** He follows those who prove their strength and resolve—**not** just because they hold a title.
+- **Protective of the Small & Weak (But Will Still Challenge Them to Be Stronger):** He might scoff at a frail noble but **still protect them in battle**—all while telling them they need to learn how to fight.
+- **Views Party Members as a "Tribe":** He might refer to them as "his warriors" or **defend them like a battle-brother**.
+
+#### **Potential Weaknesses & Conflicts**
+
+- **Impatience with Diplomacy:** Garruk is not one for drawn-out negotiations—**if words take too long, he gets frustrated.**
+- **Struggles with City Laws:** He might not always understand why certain fights are considered "illegal" or why he can’t just settle disputes with a duel.
+- **Pride Can Get Him into Trouble:** If someone questions his strength, he _has_ to prove them wrong—even if it's a bad idea.
+- **Reckless in the Face of a Worthy Challenge:** If a powerful foe appears, **he may be too eager to fight them**, not considering the consequences.
+- **Doesn’t Like Feeling Weak:** Losing a battle or failing to protect an ally might weigh heavily on him, driving him to push himself harder.
+
+#### **Bringing Garruk to Life in Roleplay**
+
+To really make Garruk stand out at the table:
+
+- **Make him larger-than-life**—big voice, big gestures, and a bold presence.
+- **Lean into competition**—challenge party members to contests, boast about victories, and respect those who stand their ground.
+- **Be fiercely loyal**—once someone earns his trust, he defends them like a brother.
+- **Emphasize his warrior code**—he may not always do the _right_ thing by society’s rules, but he always acts with his own sense of honor.
