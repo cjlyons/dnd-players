@@ -46,6 +46,8 @@ warrior of the Skybreakers, standing as a guardian against those who
 dared to threaten his people---whether it be the roving bands of orcs,
 the raiders from the lowlands, or the harshness of the wild itself.
 
+[more detail on goliath culture in the Crystalmist Mountains](./goliath-stone-crystalmist-mtns-culture.md)
+
 ### **A Spirit That Couldn't Be Contained**
 
 Yet, no matter how many battles he fought or challenges he conquered,

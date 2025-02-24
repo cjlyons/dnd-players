@@ -52,6 +52,7 @@ The **Kaelmont family’s fortune** came from their **service as enforcers and a
 
 - [History of Rauxes](./tiefling-infernal-rauxes-city.md)
 - [Fiend Patron](./fiend-patron-xeltharion.md)
+- More location information: https://greyhawk.fandom.com/wiki/Great_Kingdom
 
 ---
 
