@@ -13,7 +13,8 @@
 | **Weight** | 300lbs                             | **Class**     | Paladin - Oath of Vengeance |
 
 - Prominent tusks, slightly curved
-- [roleplaying tips](./DnD_2024_PC_Paladin_Male-roleplaying.md)
+
+---
 
 - [**Mazgor the Unbroken**](#mazgor-the-unbroken)
   - [**Back Story**](#back-story)
@@ -31,30 +32,20 @@
   - [**Allies \& Contacts**](#allies--contacts)
     - [**Helga “Ironhand” Voss (Blacksmith \& Quartermaster, Alive)**](#helga-ironhand-voss-blacksmith--quartermaster-alive)
     - [**Kaelen Marros (Informant \& Rogue, Alive)**](#kaelen-marros-informant--rogue-alive)
-  - [**Personality \& Roleplaying Traits**](#personality--roleplaying-traits)
+  - [**Personality**](#personality)
     - [**Beliefs \& Values**](#beliefs--values)
     - [**Flaws \& Struggles**](#flaws--struggles)
-  - [**Signature Battle Cries \& Rituals**](#signature-battle-cries--rituals)
-    - [**Battle Cries**](#battle-cries)
-    - [**Signature Gestures \& Combat Rituals**](#signature-gestures--combat-rituals)
-  - [**Interactions with Allies**](#interactions-with-allies)
   - [**Current Goals \& Motivations**](#current-goals--motivations)
     - [**Short-Term Goals**](#short-term-goals)
     - [**Long-Term Aspirations**](#long-term-aspirations)
-    - [**Final Thoughts**](#final-thoughts)
-  - [**Roleplaying Tips**](#roleplaying-tips)
-    - [**1) Body Language \& Presence – The Warrior’s Stance**](#1-body-language--presence--the-warriors-stance)
-    - [**2) Speech – Blunt, Measured, and Commanding**](#2-speech--blunt-measured-and-commanding)
-    - [**3) How He Shows Respect \& Approval**](#3-how-he-shows-respect--approval)
-    - [**4) Combat Roleplaying – The Unbreakable Warrior**](#4-combat-roleplaying--the-unbreakable-warrior)
-    - [**5) Tension Between Law \& Vengeance**](#5-tension-between-law--vengeance)
-    - [**6) His Perspective on Strength \& Weakness**](#6-his-perspective-on-strength--weakness)
-    - [**7) His Flaws \& Emotional Struggles**](#7-his-flaws--emotional-struggles)
-    - [**Final Roleplaying Takeaways**](#final-roleplaying-takeaways)
 
 ---
 
 ## **Back Story**
+
+Mazgor the Unbroken is a **soldier without a nation, a warrior without a home**, but his **unyielding will and iron discipline** drive him forward. He **seeks justice through strength**, but **whether his path leads to redemption or destruction remains to be seen.**
+
+[roleplaying tips](./DnD_2024_PC_Paladin_Male-roleplaying.md)
 
 ## **Origins & Upbringing**
 
@@ -150,7 +141,7 @@ Mazgor now resides in the **City of Greyhawk**, living in the **Foreign Quarter*
 
 ---
 
-## **Personality & Roleplaying Traits**
+## **Personality**
 
 ### **Beliefs & Values**
 
@@ -167,34 +158,6 @@ Mazgor now resides in the **City of Greyhawk**, living in the **Foreign Quarter*
 
 ---
 
-## **Signature Battle Cries & Rituals**
-
-### **Battle Cries**
-
-- **“I do not break. I do not bend. I do not fall.”** – A declaration of his unwavering will in battle.
-- **“You cannot break the unbreakable.”** – A defiant statement reinforcing his relentless resilience.
-
-### **Signature Gestures & Combat Rituals**
-
-- **Shield Stamp Before Battle** – Slams his shield or weapon against the ground or his armor before engaging in combat.
-- **Vow of Vengeance** – Locks eyes with his target and **draws a line across his chest with two fingers**, marking them for retribution.
-- **Salute to the Fallen** – Places his **fist over his heart and bows his head** to honor warriors who fought with dignity.
-- **Battlefield Mantra** – Repeats his war cry in battle: _“I do not break. I do not bend. I do not fall.”_
-- **Scar of Remembrance** – Refuses magical healing for meaningful wounds, letting them scar as a reminder of his battles.
-
----
-
-## **Interactions with Allies**
-
-- **The Warrior’s Grip** – Shows trust by clasping a comrade’s forearm instead of a handshake.
-- **Battle Oath** – Before a dangerous fight, exchanges a short vow with allies: _“We stand together. We fall together. But we do not break.”_
-- **Silent Approval** – Rarely gives verbal praise, instead giving a slow, deliberate nod.
-- **Sharing the Weight** – Wordlessly helps carry an ally’s gear or watch their back if they are struggling.
-- **Warrior’s Farewell** – Before parting ways, taps his fist against an ally’s chest or shoulder as a sign of respect.
-- **Tactical Patience** – If an ally acts recklessly, he grabs their shoulder and simply says: _“Think.”_
-
----
-
 ## **Current Goals & Motivations**
 
 ### **Short-Term Goals**
@@ -208,9 +171,3 @@ Mazgor now resides in the **City of Greyhawk**, living in the **Foreign Quarter*
 - **Destroy Ghazran the Butcher and reclaim his warband’s honor.**
 - **Bring discipline and order to the Pomarj—by fire and steel if necessary.**
 - **Prove that orcs are not doomed to savagery.**
-
----
-
-### **Final Thoughts**
-
-Mazgor the Unbroken is a **soldier without a nation, a warrior without a home**, but his **unyielding will and iron discipline** drive him forward. He **seeks justice through strength**, but **whether his path leads to redemption or destruction remains to be seen.**

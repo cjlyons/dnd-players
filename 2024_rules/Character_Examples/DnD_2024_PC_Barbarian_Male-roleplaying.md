@@ -3,161 +3,153 @@
 # **Roleplaying Tips**
 
 - [**Roleplaying Tips**](#roleplaying-tips)
-  - [**1. Embody the Storm in How You Speak**](#1-embody-the-storm-in-how-you-speak)
-  - [**2. Use Your Body Language to Reflect the Storm**](#2-use-your-body-language-to-reflect-the-storm)
-  - [**3. React to the Weather Around You**](#3-react-to-the-weather-around-you)
-  - [**4. Make Every Combat a Stormfront**](#4-make-every-combat-a-stormfront)
-  - [**5. Show His Growth from Fighter to Warlock**](#5-show-his-growth-from-fighter-to-warlock)
-  - [**6. Roleplay His Love for Gambling \& Risk-Taking**](#6-roleplay-his-love-for-gambling--risk-taking)
-  - [**7. Use His Relationship with His Patron for Flavor**](#7-use-his-relationship-with-his-patron-for-flavor)
-  - [**8. Roleplay His Relationship with Other Party Members**](#8-roleplay-his-relationship-with-other-party-members)
+  - [**1. Make Garruk’s Physicality Felt**](#1-make-garruks-physicality-felt)
+  - [**2. Embody His Warrior’s Mindset**](#2-embody-his-warriors-mindset)
+  - [**3. Show His Respect for Strength \& Honor**](#3-show-his-respect-for-strength--honor)
+  - [**4. Make Him an Unshakable Force in Combat**](#4-make-him-an-unshakable-force-in-combat)
+  - [**5. Give Him Quirks \& Humor to Make Him Lively**](#5-give-him-quirks--humor-to-make-him-lively)
 
-Kaelor should **always feel like a force of nature**—sometimes **calm and controlled**, sometimes **wild and unstoppable**. **The more you embrace the shifting, untamed energy of the storm**, the more he will feel **alive at the table**.
+To make Garruk **truly memorable at the table**, you’ll want to embody his **physical presence, warrior’s mindset, and unique way of interacting with the world**.
 
-To really make Garruk stand out at the table:
+- **Speak with confidence**—a deep, steady voice works well.
+- **React with physicality**—nods, crossed arms, pounding a table when excited.
+- **Stay in character**—think, _“How would Garruk see this situation?”_
+- **Emphasize his strengths AND flaws**—**his pride, his impatience, his bluntness, his competitive nature.**
 
-- **Make him larger-than-life**—big voice, big gestures, and a bold presence.
-- **Lean into competition**—challenge party members to contests, boast about victories, and respect those who stand their ground.
-- **Be fiercely loyal**—once someone earns his trust, he defends them like a brother.
-- **Emphasize his warrior code**—he may not always do the _right_ thing by society’s rules, but he always acts with his own sense of honor.
+By making Garruk feel **big, bold, unyielding, and deeply tied to his warrior’s honor**, you’ll create a character that **dominates the battlefield, commands respect, and is unforgettable at the table.**
 
----
-
-## **1. Embody the Storm in How You Speak**
-
-Kaelor’s **voice and speech patterns** should reflect his **Fey-touched storm heritage**.
-
-**How to Speak as Kaelor:**
-
-- Use **storm metaphors** in casual conversation (**“The wind’s shifting—I can feel it.”**)
-- Speak **boldly and confidently**, even when bluffing
-- Let his **tone change like the weather**—calm one moment, electric the next
-- Occasionally **pause before speaking**, as if **listening to an unseen wind**
-
-**Practice by adding storm themes to normal speech:**
-
-- Instead of _"I have a bad feeling about this,"_ → **"The air’s too still. That’s never good."**
-- Instead of _"I don't trust them,"_ → **"That one's like a cloud before a downpour—ready to break, just waiting for the right moment."**
-- Instead of _"Let's go,"_ → **"Winds are in our favor. Move."**
+**Garruk's journey is not just about finding stronger foes—it’s about proving to himself that strength means more than just winning fights.**
 
 ---
 
-## **2. Use Your Body Language to Reflect the Storm**
+## **1. Make Garruk’s Physicality Felt**
 
-Kaelor’s **physical presence** is as important as his words. Use **posture, movement, and small gestures** to reinforce his stormborn nature.
+Garruk is a **massive, powerful warrior**—his presence should be **imposing**, and his movements should reflect his raw strength.
 
-**Ways to Show This at the Table:**
+- **Use Large, Deliberate Gestures:**
 
-- **When relaxed:** Sit back with an easy confidence, like a storm **at rest before the strike**
-- **When angry or serious:** Lean forward, lower your voice, make **deliberate movements**
-- **In battle:** Be **sudden and decisive**, like a **lightning strike**—nod once, speak **short commands**
-- **When amused:** Smirk, cross your arms, or **tap fingers as if waiting for a shift in the wind**
+  - When speaking, **cross your arms, slam a fist into your palm, or nod with purpose**.
+  - When resting, **lean back heavily, like a boulder settling into place**.
+  - When moving, **walk with a firm, steady step**, like someone used to trekking across mountains.
 
----
+- **Show His Strength in Everyday Moments:**
 
-## **3. React to the Weather Around You**
+  - **Accidentally breaks small objects** (a mug, a chair, a door handle).
+  - **Lifts heavy things effortlessly**, even when it isn’t necessary.
+  - **Claps people on the back just a little too hard**, sending them stumbling forward.
+  - **Doesn’t sit in normal chairs**, preferring to squat or lean because "human furniture is weak."
 
-Kaelor **feels connected to storms**, and his roleplay should reflect that. **If it rains, thunders, or the wind shifts, acknowledge it.**
+- **Use Eye Contact & Body Language to Command Respect:**
 
-**How to React to Weather in-Game:**
-
-- If it **starts raining**, he might **tilt his face up, breathing it in**
-- If **thunder rolls**, he **grins knowingly** or **looks to the sky as if greeting an old friend**
-- If **the wind picks up**, he might say: **“The storm’s watching. Let’s see who it favors.”**
-- If it’s **too calm**, he might mutter: **“The sky’s holding its breath. Something’s coming.”**
-
-**Bonus Tip:** Even indoors, you can describe **how Kaelor senses the air**—**"Feels thick in here, like a storm waiting to break."**
+  - **Lock eyes** with someone before speaking, as if weighing their worth.
+  - **Pause before answering**, as if considering whether a conversation is worth his time.
+  - **Stand tall, shoulders squared**—never slouch, never back down.
 
 ---
 
-## **4. Make Every Combat a Stormfront**
+## **2. Embody His Warrior’s Mindset**
 
-Kaelor’s fighting style should reflect **his shifting nature**—part **disciplined warrior**, part **wild force of nature**.
+Garruk is **not just a brute**—he is **disciplined, focused, and lives by a warrior’s code**.
 
-**How to Make Combat Feel Dynamic:**
+- **Speak with Purpose:**
 
-- **Be vocal in battle**—Kaelor would **call out to enemies** and **challenge them directly**
-- **Move unpredictably**—describe how he **shifts his stance, spins his warhammer, or feints**
-- **Use weather metaphors for attacks**:
-  - _“Like a crashing wave—watch closely.”_ (When swinging his greataxe)
-  - _“Didn’t hear the thunder? Then you weren’t paying attention.”_ (After a successful strike)
-  - _“I warned you. Now comes the lightning.”_ (Right before a finishing blow)
+  - He **does not waste words**. Short, **punchy phrases** make him feel **powerful**:
 
----
+    - _"Strength is earned."_
+    - _"A weak grip means a weak heart."_
+    - _"Pain is a lesson. Learn from it."_
 
-## **5. Show His Growth from Fighter to Warlock**
+  - If someone **talks too much**, he **might sigh, fold his arms, and say, “Too many words. Where is the action?”**
+  - If a debate goes on too long, he **might offer a challenge instead: “Enough talk. Settle it with strength.”**
 
-Kaelor **starts as a fighter**—grounded, disciplined, but **with an edge of unpredictability**. After his **warlock transformation**, he should **become more fey-like, more instinctive, more storm-like**.
+  - **Treat Everything Like a Test of Strength:**
 
-**How to Show the Warlock Change Over Time:**
+  - If someone questions his **loyalty, he offers an oath and keeps it.**
+  - If someone questions his **strength, he challenges them**—maybe an **arm-wrestling match, a drinking contest, or a sparring session**.
+  - If someone proves **strong**, he respects them—even if they’re an enemy.
+  - If someone is **cowardly or weak**, he **ignores them** unless they prove themselves.
 
-- **Early on, distrust magic**—“A blade’s more honest than a spell.”
-- **As Fey power grows, start moving differently**—more fluid, more **unpredictable**
-- **His speech becomes more cryptic, as if hearing whispers on the wind**
-- **Start instinctively knowing things**—“Wind’s changed. Trouble’s coming.”
-- **During dreams, react visibly**—wake up suddenly, eyes flickering with stormlight
+- **Show His Competitive Nature:**
 
-**Key Moment Roleplay Idea:**
-
-- After his pact, **Kaelor hears the wind speak**. Maybe in **a quiet moment, he turns his head slightly, as if listening to something others can’t hear**.
-
----
-
-## **6. Roleplay His Love for Gambling & Risk-Taking**
-
-Kaelor **lives like a gambler**, always **betting on himself, reading people, and playing the odds**.
-
-**How to Show This in Roleplay:**
-
-- Always **wager something in bets**—gold, favors, information
-- Occasionally **flip a Three-Dragon Ante card while talking**, as if **thinking about a gamble**
-- He sees **combat as a game of chance**—"Every fight's a roll of the dice, but I like my odds."
-- Use **gambling language in serious situations**:
-  - _“You’re betting against the wind, and that’s a fool’s game.”_
-  - _“High stakes, low odds—just how I like it.”_
-  - _“Double or nothing? Let’s see where this goes.”_
-
-**Bonus Interaction Idea:**
-
-- If **Kaelor meets another gambler**, he might test them with **a quick card trick or coin toss** before deciding whether to trust them.
+  - He constantly **compares feats of strength** with his allies.
+    - _(“I killed three. You?”)_
+    - _(“Hah! You call that a punch? Let me show you a real one!”)_
+  - If another character has **a special skill**, he might **challenge them to teach him**—or **try to prove he can do it better**.
+  - **Drinking contests, footraces, or even who can eat the most meat? He’s in.**
 
 ---
 
-## **7. Use His Relationship with His Patron for Flavor**
+## **3. Show His Respect for Strength & Honor**
 
-The **Queen of Tempests** is an **unpredictable force**—sometimes she **guides him**, sometimes she **tests him**, and sometimes she **lets him struggle to see what he’ll do**.
+Garruk **follows a warrior’s code**, though it may be different from others’ morality.
 
-**How to Show This in Roleplay:**
+- **He Judges People by Strength, Not Birth or Rank:**
 
-- Occasionally **tilt his head as if listening to the wind** before making a big decision
-- Describe **strange feelings before storms**—a shiver up his spine, static in the air
-- **If uncertain, mention the storm**:
-  - _“The wind says move, so I’m moving.”_
-  - _“Storm’s brewing. Time to pick a side.”_
-- In **moments of crisis, let the Fey whispers creep in**—a **soft humming, a rush of wind, a fleeting vision**
+  - He doesn’t care if you’re **a noble or a peasant**—**he only respects strength and ability**.
+  - He will **stand up for the weak, but only if they show the will to improve.**
 
-**Example Dream Sequence After Warlock Pact:**
+- **He Respects His Word & Oaths:**
 
-- Kaelor stands **on a cloud, lightning flashing beneath his feet**.
-- A **tall woman in a cloak of mist and lightning smiles at him**.
-- The wind **roars in his ears, whispering his name in a hundred voices**.
-- _"A storm does not ask permission, Kaelor. So why should you?"_
+  - If he swears to **guard someone, he will not let them die**.
+  - If he makes a **promise, he keeps it**—even if it’s inconvenient.
+  - He **does not break a handshake deal**—to him, **an oath is stronger than any contract**.
+
+- **He Believes Struggle Makes People Stronger:**
+
+  - He may **refuse to help an ally who doesn’t at least TRY first**.
+    - _(“No. Stand up. Fight back. Then I will aid you.”)_
+  - He doesn’t give **sympathy, but he gives respect** to those who endure hardship.
+  - He might **offer tough love** to struggling allies:
+    - _(“You fell. Now get up. Again. Again!”)_
 
 ---
 
-## **8. Roleplay His Relationship with Other Party Members**
+## **4. Make Him an Unshakable Force in Combat**
 
-Kaelor’s **interactions with his party should reflect his mix of warrior nobility and storm-like unpredictability**.
+Garruk is a **storm of fury in battle**, but he is **not reckless**—he is **unyielding**.
 
-**How He Might Interact with Different Types of Characters:**
+- **Warrior’s Rituals & Battle Habits:**
 
-- **Lawful characters:** Teases them for being too rigid, but respects their discipline
-- **Reckless characters:** Encourages them, but reminds them that "not every storm lasts forever"
-- **Shy or quiet characters:** Might try to draw them out, get them to take a risk
-- **Magic-users:** Initially skeptical, but fascinated when magic **feels natural, like wind and storm**
+  - Before combat, **he slams his fists together or pounds his chest**.
+  - He **lets out a deep breath before charging in**—as if embracing the coming struggle.
+  - After a great fight, **he carves a tally into his weapon or armor**.
+  - He **never turns his back on an enemy until they are defeated**.
 
-**Example Bonding Moments:**
+- **Warrior’s Presence in the Fight:**
 
-- Teaching an ally **how to cheat at cards** (_"For when you really need to win."_)
-- **Throwing a coin to decide something trivial** (_"Fifty-fifty? Fair as any storm."_)
-- Offering **philosophical insight in a rare quiet moment** (_"Every storm ends, but what you do in it—that’s what lasts."_)
+  - He calls out **strong opponents**, challenging them directly.
+    - _(“Come! Face me! Let’s see if you’re worth the effort!”)_
+  - He might **grin at powerful foes**, relishing the challenge.
+  - If a foe **fights well**, he acknowledges it mid-battle:
+    - _(“Good! You are strong! This is a worthy fight!”)_
+  - He **never kills a helpless or dishonored foe**—if they fought well, he may **spare them or offer them a second chance**.
+
+---
+
+## **5. Give Him Quirks & Humor to Make Him Lively**
+
+Even the **most serious warriors** have moments of **humor and personality**.
+
+- **Eating & Drinking Habits:**
+
+  - He **eats like a starving bear**, tearing meat from bones.
+  - He **drinks ale in huge gulps, slamming his mug down after every sip**.
+  - He **disdains small portions**—he might stare at a delicate meal and mutter: _"This is not food. This is a snack for children."_
+
+- **Social Quirks:**
+
+  - **Nicknames for Everyone** based on what he sees in them.
+    - The wizard? _“Fire-Slinger.”_
+    - The rogue? _“Shadow-Step.”_
+    - The bard? _“Chatter-Tongue.”_
+  - **Hates Being Bored.** If nothing is happening, he **sparring, drinking, or testing his strength in some way**.
+
+- **Awkward Moments in Civilized Settings:**
+
+  - **Doesn’t understand small talk.** If someone asks, _“How are you?”_, he might just say: _“Strong.”_
+  - **Might be frustrated with laws**: _“Why do I need ‘permission’ to fight this man? He insulted me. He should face me.”_
+  - **Struggles with formal etiquette**:
+    - If someone bows, he **nods but looks confused**.
+    - If a noble offers a delicate handshake, **he might accidentally crush their hand.**
+  - **Struggles with City Life** – He comes from a world where disputes were settled with **contests of strength, not laws and words**. The politics of Greyhawk are **strange and frustrating** to him.
+  - **Torn Between Two Worlds** – If he grows too comfortable in civilization, does he betray his warrior roots? If he returns home, has he **changed too much** to belong?

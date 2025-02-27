@@ -67,7 +67,7 @@ Choose a character and background that matches your stlyle. The role playing fla
   - **Social Interaction** is for those who thrive on **roleplay, storytelling, and manipulation**.
   - **Combat** is for those who enjoy **tactical challenges, action, and power fantasy**.
 
-- What type of character do you want to play? Get some ideas for the list of traits & quirks below.
+- What type of character do you want to play? Get some ideas from the list of traits & quirks below.
 - Browse the guides in steps 1-4 below to get ideas on what choices match your play style.
 
 ### Steps
