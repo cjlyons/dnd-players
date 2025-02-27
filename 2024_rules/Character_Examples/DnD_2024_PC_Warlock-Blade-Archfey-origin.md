@@ -2,7 +2,16 @@
 
 # **Cloud Goliaths of the Yatil Mountains**
 
-#### **Tribe Name: The Stormwardens of Skyhold**
+- [**Cloud Goliaths of the Yatil Mountains**](#cloud-goliaths-of-the-yatil-mountains)
+  - [**Tribe Name: The Stormwardens of Skyhold**](#tribe-name-the-stormwardens-of-skyhold)
+  - [**Skyhold: The Hidden Sanctuary**](#skyhold-the-hidden-sanctuary)
+  - [**Cloud Goliath Culture \& Traditions**](#cloud-goliath-culture--traditions)
+  - [**NPCs \& Notable Figures**](#npcs--notable-figures)
+    - [**High Warden Kaldris Stormbrand** (Elder, Cloudcaller)](#high-warden-kaldris-stormbrand-elder-cloudcaller)
+    - [**Toraan Thunderfist** (Warrior, Seeker of Fate)](#toraan-thunderfist-warrior-seeker-of-fate)
+    - [**Vaelith Galeheart** (Mystic, Wanderer in Greyhawk)](#vaelith-galeheart-mystic-wanderer-in-greyhawk)
+
+### **Tribe Name: The Stormwardens of Skyhold**
 
 - The **Stormwardens** are a reclusive tribe of Cloud Goliaths dwelling in **Skyhold**, an ancient fortress **perched high in the Yatil Mountains**.
 - They believe they are the last **remnants of a forgotten pact** between the **Cloud Giants and the Prime Gods**, tasked with **watching over the ruins of an ancient sky-city** hidden in the peaks.
@@ -10,7 +19,7 @@
 
 ---
 
-### **Skyhold � The Hidden Sanctuary**
+### **Skyhold: The Hidden Sanctuary**
 
 - **Location:** A fortress **built on the peak of Mount Skye**, hidden within perpetual **storm clouds**.
 - **Architecture:** **A blend of giant and humanoid craftsmanship**, featuring **floating bridges, wind-carved towers, and massive stone halls**.
@@ -42,12 +51,3 @@
 
 - A Cloudcaller shaman who believes Greyhawk is destined for **a coming calamity**, searching for signs and champions.
 - Can be found in the city, interpreting omens and offering cryptic warnings.
-
----
-
-### **Adventure Hooks for a Cloud Goliath PC from Skyhold**
-
-1. **The Vault Awakens** � Something is **stirring beneath Skyhold**, and you are sent to Greyhawk to seek allies or answers.
-2. **Bounty of the Storm Lords** � Cloud Giants or rival factions want **the secrets of Skyhold**, and you are hunted as a key.
-3. **The Lost Oath** � An ancient prophecy foretells that one of your kin **must reclaim a long-forgotten relic** before an impending disaster.
-4. **Exile or Pilgrimage?** � Were you **banished for defying tradition**, or are you **on a sacred mission** to prove yourself before returning?

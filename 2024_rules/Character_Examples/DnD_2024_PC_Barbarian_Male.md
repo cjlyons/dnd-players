@@ -12,6 +12,8 @@
 | **Height** | 7'10"                          | **Origin**    | Soldier               |
 | **Weight** | 400lbs                         | **Class**     | Barbarian (Berserker) |
 
+[roleplaying tips](./DnD_2024_PC_Barbarian_Male-roleplaying.md)
+
 ## Back Story
 
 - [Garruk Stonefury, the Unyielding](#garruk-stonefury-the-unyielding)
@@ -26,8 +28,7 @@
       - [**Beliefs \& Code of Honor**](#beliefs--code-of-honor)
       - [**Habits \& Quirks**](#habits--quirks)
       - [**Relationships \& Social Interactions**](#relationships--social-interactions)
-      - [**Potential Weaknesses \& Conflicts**](#potential-weaknesses--conflicts)
-      - [**Bringing Garruk to Life in Roleplay**](#bringing-garruk-to-life-in-roleplay)
+      - [**Weaknesses \& Conflicts**](#weaknesses--conflicts)
 
 ### **Born to Battle**
 
@@ -46,7 +47,7 @@ warrior of the Skybreakers, standing as a guardian against those who
 dared to threaten his people---whether it be the roving bands of orcs,
 the raiders from the lowlands, or the harshness of the wild itself.
 
-[more detail on goliath culture in the Crystalmist Mountains](./goliath-stone-crystalmist-mtns-culture.md)
+[more detail on his origin](./DnD_2024_PC_Barbarian_Male-origin.md)
 
 ### **A Spirit That Couldn't Be Contained**
 
@@ -137,19 +138,10 @@ sellswords.
 - **Protective of the Small & Weak (But Will Still Challenge Them to Be Stronger):** He might scoff at a frail noble but **still protect them in battle**—all while telling them they need to learn how to fight.
 - **Views Party Members as a "Tribe":** He might refer to them as "his warriors" or **defend them like a battle-brother**.
 
-#### **Potential Weaknesses & Conflicts**
+#### **Weaknesses & Conflicts**
 
 - **Impatience with Diplomacy:** Garruk is not one for drawn-out negotiations—**if words take too long, he gets frustrated.**
 - **Struggles with City Laws:** He might not always understand why certain fights are considered "illegal" or why he can’t just settle disputes with a duel.
 - **Pride Can Get Him into Trouble:** If someone questions his strength, he _has_ to prove them wrong—even if it's a bad idea.
 - **Reckless in the Face of a Worthy Challenge:** If a powerful foe appears, **he may be too eager to fight them**, not considering the consequences.
 - **Doesn’t Like Feeling Weak:** Losing a battle or failing to protect an ally might weigh heavily on him, driving him to push himself harder.
-
-#### **Bringing Garruk to Life in Roleplay**
-
-To really make Garruk stand out at the table:
-
-- **Make him larger-than-life**—big voice, big gestures, and a bold presence.
-- **Lean into competition**—challenge party members to contests, boast about victories, and respect those who stand their ground.
-- **Be fiercely loyal**—once someone earns his trust, he defends them like a brother.
-- **Emphasize his warrior code**—he may not always do the _right_ thing by society’s rules, but he always acts with his own sense of honor.
