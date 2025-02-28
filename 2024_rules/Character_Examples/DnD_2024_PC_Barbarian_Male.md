@@ -12,8 +12,6 @@
 | **Height** | 7'10"                          | **Origin**    | Soldier               |
 | **Weight** | 400lbs                         | **Class**     | Barbarian (Berserker) |
 
-[roleplaying tips](./DnD_2024_PC_Barbarian_Male-roleplaying.md)
-
 ## Back Story
 
 - [Garruk Stonefury, the Unyielding](#garruk-stonefury-the-unyielding)
