@@ -49,6 +49,8 @@ the raiders from the lowlands, or the harshness of the wild itself.
 
 [more detail on his origin](./DnD_2024_PC_Barbarian_Male-origin.md)
 
+[roleplaying tips](./DnD_2024_PC_Barbarian_Male-roleplaying.md)
+
 ### **A Spirit That Couldn't Be Contained**
 
 Yet, no matter how many battles he fought or challenges he conquered,
