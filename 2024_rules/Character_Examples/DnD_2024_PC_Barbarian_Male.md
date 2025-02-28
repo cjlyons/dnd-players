@@ -1,6 +1,6 @@
 [DnD](../../readme.md) > [Character Creation](../../character-creation.md) > Garruk Stonefury
 
-# Garruk Stonefury, the Unyielding
+# **Garruk Stonefury, the Unyielding**
 
 <image src="images/DnD_2024_PC_Barbarian_Male.webp" style="float:left;" width="200px" height="200px">
 
@@ -12,13 +12,17 @@
 | **Height** | 7'10"                          | **Origin**    | Soldier               |
 | **Weight** | 400lbs                         | **Class**     | Barbarian (Berserker) |
 
-## Back Story
+## **Back Story**
 
-- [Garruk Stonefury, the Unyielding](#garruk-stonefury-the-unyielding)
-  - [Back Story](#back-story)
+- [**Garruk Stonefury, the Unyielding**](#garruk-stonefury-the-unyielding)
+  - [**Back Story**](#back-story)
     - [**Born to Battle**](#born-to-battle)
     - [**A Spirit That Couldn't Be Contained**](#a-spirit-that-couldnt-be-contained)
+    - [**Family and Mentors**](#family-and-mentors)
+    - [**Important People and Concepts**](#important-people-and-concepts)
     - [**Arrival in Greyhawk**](#arrival-in-greyhawk)
+    - [**Current Goals and Motivations**](#current-goals-and-motivations)
+    - [**Long-Term Aspirations**](#long-term-aspirations)
     - [**Personality, Beliefs, Quirks, \& Mannerisms**](#personality-beliefs-quirks--mannerisms)
       - [**Personality**](#personality)
       - [**Physical Presence \& Mannerisms**](#physical-presence--mannerisms)
@@ -64,6 +68,23 @@ the great city of Greyhawk, a place where warriors from every land
 clashed, where adventurers sought glory, and where battle was never far
 away. His fate lay beyond the mountains.
 
+### **Family and Mentors**
+
+The **Stonefury bloodline** is ancient among the Skybreaker Clan, known for producing **some of the strongest warriors** in the tribe’s history. Garruk’s family has always been at the **forefront of the clan’s battles**—guarding the mountain passes from orc raiders, hunting wyverns, and wrestling giants into submission.
+
+- **Father: Thragar Stonefury** (Deceased) – A legendary warrior who **fell in battle against a fire giant**, refusing to retreat even when the odds were impossible. His legend still looms over Garruk, as he strives to **live up to his father’s name**.
+- **Mother: Othara Stormbrow** – A **proud, battle-scarred warrior**, still alive, serving as an elder of the clan. She believes in **teaching through hardship**—when Garruk was young, she would make him run barefoot through the snow to build endurance.
+- **Younger Brother: Brakka Stonefury** – Hot-headed and **desperate to prove himself**, Brakka resents Garruk’s success and seeks to **surpass him someday**. A potential rival, or a future ally in need.
+- **Mentor: Elder Karvok the Unbowed** – A **grizzled veteran and clan chieftain**, Karvok trained Garruk in **battle tactics, endurance, and leadership**. He taught him that **true strength is not just power, but the will to stand unyielding even when the world breaks around you**.
+
+### **Important People and Concepts**
+
+- **The Skybreaker Clan** – Even though he left, Garruk **still considers them his people**, and he would return if they ever truly needed him.
+- **His Father’s Legacy** – Garruk carries **his father’s old warbelt**, a heavy, rune-etched leather belt that Thragar wore into every battle. It serves as a constant reminder of the strength he must uphold.
+- **Rivalry with Brakka** – His younger brother **wants to prove he is stronger**, and one day their paths may cross again—whether as allies or as foes.
+- **A Worthy Adversary** – Garruk **lives for the challenge of battle**, and he **respects only those who prove themselves through strength and perseverance**.
+- **His Own Honor** – Though not bound by city laws, Garruk follows **his own strict warrior code**—his **word is his bond**, and he does not break a sworn promise.
+
 ### **Arrival in Greyhawk**
 
 The transition from tribal warrior to city dweller was no easy feat.
@@ -81,6 +102,19 @@ sellswords.
 
 3.  He found a band of adventurers, warriors who sought danger,
     treasure, and battle, and knew that this was where he belonged.
+
+### **Current Goals and Motivations**
+
+- **To Test Himself Against the Greatest Foes** – Dragons, giants, champions—he **wants to fight them all**.
+- **To Find a Worthy Adversary** – Someone, somewhere must be **strong enough to truly challenge him**.
+- **To Build His Legend** – He doesn’t just want to be strong—**he wants to be remembered.**
+- **To Return Home Worthy** – One day, he will return to **Skybreaker Hold**—but **not as a warrior of the clan. He will return as a legend.**
+
+### **Long-Term Aspirations**
+
+- **To Lead His Own Band of Warriors** – A **mercenary company, a warband, or even a new clan**—one that follows his philosophy of unbreakable strength.
+- **To Slay a Dragon in Single Combat** – The ultimate test of might.
+- **To Carve His Name into the World** – Whether **in history books, in the ruins of a fallen kingdom, or in the stories of bards**, Garruk **refuses to be forgotten**.
 
 ### **Personality, Beliefs, Quirks, & Mannerisms**
 
