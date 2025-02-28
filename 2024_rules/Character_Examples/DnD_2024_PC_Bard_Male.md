@@ -14,6 +14,9 @@
 
 ## Back Story
 
+[more information about Dain's origin](./DnD_2024_PC_Bard_Male-origin.md)
+[roleplaying tips](./DnD_2024_PC_Bard_Male-roleplaying.md)
+
 ### Early Life
 
 Dain Varros grew up in the twisting alleys and bustling markets of Greyhawk, where words were sharper than daggers, and trust was the most valuable (and easily broken) currency. The son of a failed playwright and a street performer, he learned early on that talent alone wouldn't put food on the table—but a well-placed lie or a bit of sleight of hand just might.
