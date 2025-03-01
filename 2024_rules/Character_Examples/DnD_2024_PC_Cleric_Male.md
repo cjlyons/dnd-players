@@ -18,7 +18,12 @@
   - [**Back Story**](#back-story)
     - [**Early Life \& Divine Calling**](#early-life--divine-calling)
     - [**Turning Point**](#turning-point)
+    - [**Family \& Mentors**](#family--mentors)
+    - [**Important People (Friends, Rivals, \& Foes)**](#important-people-friends-rivals--foes)
+      - [**Friends \& Allies**](#friends--allies)
+      - [**Rivals \& Foes**](#rivals--foes)
     - [**Current Role \& Motivations**](#current-role--motivations)
+    - [**Long-Term Aspirations**](#long-term-aspirations)
     - [**Personality \& Traits**](#personality--traits)
     - [**Beliefs:**](#beliefs)
     - [**Quirks \& Flaws**](#quirks--flaws)
@@ -42,6 +47,74 @@ Taking this as a sign, Aric left behind the forge and took up the mantle of a cl
 
 ---
 
+### **Family & Mentors**
+
+- **Father: Master Ulrich Valdran** _(Human, Deceased)_ – A **renowned armorer** in the Artisan’s Quarter of Greyhawk, known for crafting durable plate mail for the city guard and noble houses.
+
+  - He was **a man of few words but unwavering discipline**, teaching Aric both the art of smithing and the **principles of duty and perseverance**.
+  - He died when Aric was in his early twenties—**his heart gave out from years of grueling work at the forge**.
+  - Aric still keeps **his father’s old smithing hammer**, treating it as both a tool and a relic.
+
+- **Mother: Sister Helena Valdran** _(Human, Alive, Cleric of Herioreous)_ – A **devoted scholar and priestess** who served at a temple of Herioreous in the Artisan’s Quarter.
+
+  - She **instilled in Aric the values of justice, discipline, and faith**, though she never forced him into the clergy.
+  - Now in her later years, she **lives quietly in Greyhawk, maintaining a small shrine** and offering wisdom to young warriors and clerics.
+  - She worries that Aric **pushes himself too hard, taking too much responsibility upon himself**.
+
+- **Brother: Darius Valdran** _(Human, Merchant, Alive)_ – The **younger brother**, who took a different path and now works as a **merchant and supplier of weapons**.
+
+  - While **less disciplined than Aric**, Darius is shrewd and **has an ear for the underworld**.
+  - He **disagrees with Aric’s black-and-white view of law and justice**, believing that **sometimes you have to work with the system to survive**.
+  - Their relationship is **strained but not broken**—Darius warns Aric when he’s making enemies in Greyhawk but refuses to change his own ways.
+
+- **Master Gregor Haldwin** _(Dwarven Smith, Alive)_ – Aric’s **father’s closest friend** and a **master weaponsmith**.
+
+  - He was **a second father to Aric**, teaching him advanced forging techniques.
+  - He believes **Aric belongs at the forge**, not on the battlefield.
+  - Still **operates his own forge in Greyhawk**, occasionally assisting Aric with repairs and supplies.
+
+- **Sir Aldric Thorne** _(Paladin of Herioreous, Deceased)_ – The **Paladin Aric saved from assassins**, setting him on the path of a cleric.
+
+  - He became **Aric’s first real mentor in the ways of Herioreous**, teaching him **how to fight and serve justice without arrogance**.
+  - He was **killed by the same criminal syndicate** he was hunting—his death **remains one of Aric’s greatest regrets**, and he carries Aldric’s **old signet ring** as a reminder of his purpose.
+
+- **High Priestess Callia Veyne** _(Cleric of Herioreous, Alive)_ – A **senior cleric** in Greyhawk who helped train Aric in divine magic.
+  - A pragmatic woman, she often **warned Aric that Greyhawk is not a city of noble warriors—it is a city of power and survival**.
+  - While she respects his ideals, she **worries he will not survive his own uncompromising nature**.
+
+---
+
+### **Important People (Friends, Rivals, & Foes)**
+
+#### **Friends & Allies**
+
+- **Captain Elias Vance** _(City Watch Commander, Ally)_ – A **respected but overworked officer of the Greyhawk City Watch**.
+
+  - He **relies on Aric** for assistance when corruption makes things difficult.
+  - However, he also warns Aric **not to make too many enemies—because the law in Greyhawk does not always protect the righteous**.
+
+- **Sister Miriel Thorne** _(Paladin, Friend & Ally)_ – The **younger sister of Sir Aldric Thorne**, the paladin Aric once saved.
+  - She now **carries her brother’s mantle**, seeking **the same justice he once fought for**.
+  - She and Aric share a **strong sense of duty and justice**, but she is **more willing to bend the rules** when necessary.
+
+#### **Rivals & Foes**
+
+- **"The Black Ledger" (Criminal Syndicate, Enemy)** – The **underground faction responsible for Aldric Thorne’s death**.
+
+  - They **deal in bribery, blackmail, and assassinations**.
+  - Aric **has already thwarted several of their schemes**, and they **want him eliminated**.
+
+- **Gaius Vellcaro (Corrupt Noble, Rival)** – A **wealthy aristocrat with deep ties to the Thieves’ Guild**.
+
+  - He sees Aric as **an idealistic nuisance** and has tried **to bribe or discredit him**.
+  - He **discretely funds mercenaries and assassins** who would love to see Aric disappear.
+
+- **Rennik "The Viper" Dural** _(Assassin, Personal Enemy)_ – The **assassin who killed Sir Aldric Thorne**.
+  - Aric has hunted him for **years**, but Rennik **always stays one step ahead**.
+  - Rennik enjoys **taunting Aric**, viewing his devotion to justice as **a weakness**.
+
+---
+
 ### **Current Role & Motivations**
 
 Now a full-fledged cleric of Herioreous, Aric serves as a guardian and enforcer of order in Greyhawk. He operates from a modest chapel in the Garden Quarter, offering blessings to city guards, repairing arms and armor for the faithful, and ensuring that the laws of Herioreous are upheld. However, his path is not without conflict:
@@ -49,6 +122,28 @@ Now a full-fledged cleric of Herioreous, Aric serves as a guardian and enforcer 
 1. A Lawful But Neutral Stance – While Aric believes in law and duty, he recognizes that Greyhawk is full of corruption. He walks a fine line between enforcing order and questioning authority, ensuring that he does not become a pawn for the city’s more corrupt officials.
 2. A Conflict with the Thieves’ Guild – Aric has openly opposed the Thieves’ Guild, refusing to provide them with weapons or protection. This has made him a target, with certain factions wanting him either silenced or bribed.
 3. The Forgotten Duty – While he upholds law in Greyhawk, Aric’s celestial blood whispers that his duty extends beyond the city walls. There are greater evils and larger conflicts—perhaps Herioreous has greater plans for him than he realizes.
+
+---
+
+### **Long-Term Aspirations**
+
+- **Short-Term Goals:**
+
+  - **Continue rooting out corruption in Greyhawk** without falling into recklessness.
+  - **Find proof that Gaius Vellcaro is behind many of Greyhawk’s crimes**.
+  - **Track down Rennik "The Viper" and bring him to justice**.
+
+- **Long-Term Goals:**
+
+  - **Forge a legendary weapon in Herioreous’ name**, something worthy of passing down to future champions.
+  - **Establish a true sanctuary in Greyhawk**, a **bastion of law and justice** that cannot be corrupted by politics.
+  - **Resolve his conflict with his brother Darius**—either by proving that honor is the better path or **finding common ground**.
+  - **Discover his celestial heritage’s true purpose**—is he meant to serve only Greyhawk, or **is there a greater battle on the horizon?**
+
+- **Ultimate Aspirations:**
+  - **Become a Champion of Herioreous**, **leading a force against true evil** beyond the city.
+  - **Uncover an ancient artifact of Herioreous**, ensuring it is wielded by someone worthy.
+  - **Leave behind a legacy**—whether by training a new generation, forging a divine relic, or ensuring Greyhawk remembers **his name and his deeds**.
 
 ---
 
