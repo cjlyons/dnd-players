@@ -45,8 +45,6 @@
 
 Mazgor the Unbroken is a **soldier without a nation, a warrior without a home**, but his **unyielding will and iron discipline** drive him forward. He **seeks justice through strength**, but **whether his path leads to redemption or destruction remains to be seen.**
 
-[roleplaying tips](./DnD_2024_PC_Paladin_Male-roleplaying.md)
-
 ## **Origins & Upbringing**
 
 Mazgor was born in the **lawless, war-torn Pomarj**, a land ruled by orc warlords, bandits, and slavers. Unlike most orcs who thrived on savagery and chaos, Mazgor was raised within the disciplined warband of **Warlord Dargul the Iron-Fisted**. Dargul was a rare leader among the Pomarj—he believed in **order, discipline, and structured warfare**, not mindless pillaging.
@@ -58,6 +56,8 @@ Yet, discipline is rare in the Pomarj. Other warlords saw Dargul’s vision as *
 With **nothing left but his training and his unyielding will**, he swore vengeance. The Pomarj would **never break him**—he would break **those who betrayed his warband instead**.
 
 [more detail on The Pomarj](./DnD_2024_PC_Paladin_Male-origin.md)
+
+[roleplaying tips](./DnD_2024_PC_Paladin_Male-roleplaying.md)
 
 ---
 
