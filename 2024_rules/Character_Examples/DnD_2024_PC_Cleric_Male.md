@@ -36,6 +36,7 @@ Born in the Artisan’s Quarter of Greyhawk, Aric Valdran was raised in a humble
 Unlike many other aasimar, whose celestial heritage manifests in grand visions or divine revelations, Aric’s connection to the divine was quiet and steady, like a smith’s hammer striking metal. He never heard the voice of Herioreous directly, but he felt his presence in the clang of steel, the discipline of the forge, and the unwavering duty of those who stood watch over others.
 
 [origin](./DnD_2024_PC_Cleric_Male-origin.md)
+
 [roleplaing tips](./DnD_2024_PC_Cleric_Male-roleplaying.md)
 
 ---
