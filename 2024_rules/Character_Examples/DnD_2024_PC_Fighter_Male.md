@@ -12,8 +12,6 @@
 | **Height** | 4'10"                                              | **Origin**    | Farmer         |
 | **Weight** | 200lbs                                             | **Class**     | Fighter        |
 
-[roleplaying tips](./DnD_2024_PC_Fighter_Male-roleplaying.md)
-
 ## Back Story
 
 - [Durgen Stonebinder](#durgen-stonebinder)
@@ -48,6 +46,8 @@ Born into the **Stonebinder Clan**, Durgen was raised in **Farner**, a **mountai
 The **Stonebinders** were among the **oldest and most respected** farming families in the clan, tending both **underground and surface farms** to provide food for their kin. **Below the surface**, they cultivated **fungal crops**, bred **giant goats and cave boars**, and maintained **hydroponic-style irrigation systems**. **Above ground**, they raised **mountain ponies**, tended hardy fields of **barley and root vegetables**, and protected livestock from **predators and raiders**.
 
 Though some **traditionalist dwarves** saw farming as lesser compared to smithing and war, Durgen never felt ashamed. He knew that without families like his, the clan would starve.
+
+[roleplaying tips](./DnD_2024_PC_Fighter_Male-roleplaying.md)
 
 [more information about his origin](./DnD_2024_PC_Fighter_Male-origin.md)
 

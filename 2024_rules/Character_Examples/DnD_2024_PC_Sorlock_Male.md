@@ -39,6 +39,8 @@
 From the moment Zyra could walk, he knew he was different from others of his kind. Smaller, weaker, and lacking the imposing presence expected of a gold dragonborn, he spent his youth overshadowed—both figuratively and literally—by his kin. Where others boasted physical might and fiery breath, he relied on wit, charm, and quick thinking to navigate life.  
 Raised within the bustling trade networks of Greyhawk, Zyra was apprenticed to a merchant caravan that traveled the rivers and roads of the Flanaess. He quickly learned the art of haggling, smuggling, and making fast friends in low places. Yet, deep down, he craved more—a grander purpose than weighing coin and managing shipments. He yearned for adventure, magic, and power beyond what fate had granted him.
 
+[origin](./DnD_2024_PC_Sorlock_Male_origin.md)
+
 [roleplaying tips](./DnD_2024_PC_Sorlock_Male_roleplaying.md)
 
 ### A Bargain with the Queen of Summer

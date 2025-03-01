@@ -12,8 +12,6 @@
 | **Height** | 7'8"                                                                       | **Origin**    | Noble                         |
 | **Weight** | 350lbs                                                                     | **Class**     | Fighter / Warlock (Balde/Fey) |
 
-[roleplaying tips](./DnD_2024_PC_Warlock-Blade-Archfey-roleplaying.md)
-
 ## Back Story
 
 - [Kaelor Stormborne, the Skyforged Blade](#kaelor-stormborne-the-skyforged-blade)
@@ -39,6 +37,8 @@ Kaelor Stormborne was born into the **Stormwardens of Skyhold**, an **ancient no
 The Stormwardens believed they were **descendants of the sky-giants**, tasked with **protecting the lost secrets of the storm**. His father, **Lord Thalrik Stormborne**, was their leader—a warrior bound by **duty and unyielding tradition**, who saw the outside world as **a threat to their way of life**. His mother, **Vaelith Galeheart**, was a mystic who taught him **the power of words, omens, and stories**.
 
 From a young age, Kaelor was trained to **become the next Storm Warden**, excelling in **combat, diplomacy, and acrobatics** as he **leaped between the storm-carved bridges of Skyhold**. But while he thrived in battle, he yearned for **something beyond the mountains**—a purpose **greater than upholding old traditions**.
+
+[roleplaying tips](./DnD_2024_PC_Warlock-Blade-Archfey-roleplaying.md)
 
 [More about his origin](./DnD_2024_PC_Warlock-Blade-Archfey-origin.md)
 

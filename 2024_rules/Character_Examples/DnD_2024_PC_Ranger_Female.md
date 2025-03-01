@@ -20,8 +20,6 @@
 - A faint burn scar on her left shoulder from an old magical injury
 - The notch in her left ear is the result of a near miss from an assassin's dagger—a reminder that she has dodged death more than once
 
-[role playing tips](./DnD_2024_PC_Ranger_Female_roleplaying.md)
-
 ## **Back Story**
 
 - [**Vasara T’sarran – The Feral Outcast**](#vasara-tsarran--the-feral-outcast)
@@ -50,6 +48,8 @@ Vasara’s **mother, Zyssara**, was a hardened survivalist who ruled their ragge
 From the time she could walk, Vasara was expected to pull her weight. She **hunted**, **stole**, and **learned to navigate the Suss’s deadly terrain**, which teemed with goblins, slavers, and beasts warped by ancient curses. There were no formal teachers—only **trial, error, and pain**.
 
 [More about her origin](./DnD_2024_PC_Ranger_Female_origin.md)
+
+[role playing tips](./DnD_2024_PC_Ranger_Female_roleplaying.md)
 
 ---
 

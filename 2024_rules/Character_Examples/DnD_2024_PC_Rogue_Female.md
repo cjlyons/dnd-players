@@ -31,6 +31,8 @@
 Tess Thornhill grew up in the bustling streets of Clerkburg, a district in Greyhawk known for its scholars and bureaucrats. However, the only education Tess ever received was in the art of deception, learned from his uncle Tobias—a notorious con artist who ran a series of elaborate scams on Greyhawk’s nobility. Whether it was posing as a foreign prince in need of “temporary” funds or selling counterfeit spell scrolls, young Tess quickly learned the ropes of fast talk, sleight of hand, and misdirection.  
 By the time she was a teenager, Tess had already established herself as a street-savvy trickster running confidence schemes on unwitting merchants, corrupt officials, and the occasional self-important noble. But she wasn’t in it just for the coin—she had a soft spot for the underprivileged, often redistributing her ill-gotten gains to struggling beggars, orphans, and hard-working folk crushed under the weight of Greyhawk’s bureaucracy.
 
+[origin](./DnD_2024_PC_Rogue_Female-origin.md)
+
 [roleplaying tips](./DnD_2024_PC_Rogue_Female-roleplaying.md)
 
 ### **Turning Point**

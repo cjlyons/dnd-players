@@ -14,9 +14,6 @@
 
 ## Back Story
 
-[more information about Dain's origin](./DnD_2024_PC_Bard_Male-origin.md)
-[roleplaying tips](./DnD_2024_PC_Bard_Male-roleplaying.md)
-
 ### Early Life
 
 Dain Varros grew up in the twisting alleys and bustling markets of Greyhawk, where words were sharper than daggers, and trust was the most valuable (and easily broken) currency. The son of a failed playwright and a street performer, he learned early on that talent alone wouldn't put food on the table—but a well-placed lie or a bit of sleight of hand just might.
@@ -28,6 +25,10 @@ As a teenager, he fell in with the more colorful elements of Greyhawk—thieves,
 But beneath the deception and trickery, Dain wasn't heartless. He refused to steal from the truly desperate, and he always tried to balance his misdeeds with acts of kindness—exposing corrupt officials, redistributing a stolen noble’s wealth to the poor, or turning the tables on those who took advantage of others. His philosophy was simple: if the system was built to favor the powerful, then it was only fair to tip the scales back the other way.
 
 Eventually, though, Greyhawk’s underworld grew too small. His name became a little too well-known, and the city guard started looking for the mysterious “Silver Tongue” behind too many clever cons. Rather than push his luck, Dain decided it was time for a grander stage—adventure, fame, and the chance to pull off the biggest trick of all: turning himself from a two-bit charlatan into a legendary hero.
+
+[more information about Dain's origin](./DnD_2024_PC_Bard_Male-origin.md)
+
+[roleplaying tips](./DnD_2024_PC_Bard_Male-roleplaying.md)
 
 ### Current Motivations & Goals
 

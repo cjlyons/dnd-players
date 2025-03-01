@@ -15,8 +15,6 @@
 - Horns: Curving back like a noble crown, smooth and polished, resembling an infernal warlord’s regalia rather than something wild or monstrous.
 - Tail: Long and whip-like, dexterous enough to flick objects off tables or wrap subtly around a chair leg when sitting.
 
-[role playing tips](./DnD_2024_PC_Warlock-Blade-Fiend-roleplaying.md)
-
 ## **Back Story**
 
 - [**Zerathis "Zer" Kaelmont – The Exiled Heir of a Fallen Noble House**](#zerathis-zer-kaelmont--the-exiled-heir-of-a-fallen-noble-house)
@@ -39,9 +37,12 @@ Zerathis "Zer" Kaelmont was born into **House Kaelmont**, a **lesser noble house
 
 The **Kaelmont family’s fortune** came from their **service as enforcers and assassins** for the Overking. While the **Naelax ruled through terror**, the **Kaelmonts ensured obedience**—silencing rivals, overseeing infernal pacts, and **training elite warriors who wielded both steel and sorcery**.
 
-- [History of Rauxes](./DnD_2024_PC_Warlock-Blade-Fiend-origin.md)
-- [Fiend Patron](./DnD_2024_PC_Warlock-Blade-Fiend-patron.md)
-- More location information: https://greyhawk.fandom.com/wiki/Great_Kingdom
+[role playing tips](./DnD_2024_PC_Warlock-Blade-Fiend-roleplaying.md)
+
+[History of Rauxes](./DnD_2024_PC_Warlock-Blade-Fiend-origin.md) |
+[More location information](https://greyhawk.fandom.com/wiki/Great_Kingdom)
+
+[Fiend Patron](./DnD_2024_PC_Warlock-Blade-Fiend-patron.md)
 
 ---
 

@@ -30,12 +30,12 @@
 
 ## **Back Story**
 
-[roleplaing tips](./DnD_2024_PC_Cleric_Male-roleplaying.md)
-
 ### **Early Life & Divine Calling**
 
 Born in the Artisan’s Quarter of Greyhawk, Aric Valdran was raised in a humble but disciplined household. His father was a master armorer, known for crafting durable plate mail for the city guard and noble houses, while his mother was a devoted scholar of Herioreous' doctrine. From an early age, Aric was instilled with the values of duty, vigilance, and the sanctity of order.  
 Unlike many other aasimar, whose celestial heritage manifests in grand visions or divine revelations, Aric’s connection to the divine was quiet and steady, like a smith’s hammer striking metal. He never heard the voice of Herioreous directly, but he felt his presence in the clang of steel, the discipline of the forge, and the unwavering duty of those who stood watch over others.
+
+[roleplaing tips](./DnD_2024_PC_Cleric_Male-roleplaying.md)
 
 ---
 
