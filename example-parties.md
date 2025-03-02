@@ -22,7 +22,7 @@
 | Class                                                                                    | Subclass      | Origin    | Species         | Background                                                                     |
 | ---------------------------------------------------------------------------------------- | ------------- | --------- | --------------- | ------------------------------------------------------------------------------ |
 | [Fighter/Warlock](./2024_rules/Character_Examples/DnD_2024_PC_Warlock-Blade-Archfey.pdf) | Blade/Archfey | Noble     | Goliath (Cloud) | [Kaelor](./2024_rules/Character_Examples/DnD_2024_PC_Warlock-Blade-Archfey.md) |
-| [Druid](./2024_rules/Character_Examples/DnD_2024_PC_Druid.pdf)                           | Moon          | Artisan   | Aasimar         | [Elara](./2024_rules/Character_Examples/DnD_2024_PC_Druid_Female.md)           |
+| [Druid](./2024_rules/Character_Examples/DnD_2024_PC_Druid.pdf)                           | Moon          | Sage      | Elf (Wood)      | [Elara](./2024_rules/Character_Examples/DnD_2024_PC_Druid_Female.md)           |
 | [Bard](./2024_rules/Character_Examples/DnD_2024_PC_Bard.pdf)                             | Valor         | Charlatan | Human           | [Dain](./2024_rules/Character_Examples/DnD_2024_PC_Bard_Male.md)               |
 | [Wizard](./2024_rules/Character_Examples/DnD_2024_PC_Wizrard.pdf)                        | Evoker        | Artisan   | Human           | [Lucian](./2024_rules/Character_Examples/DnD_2024_PC_Wizard_Male.md)           |
 
