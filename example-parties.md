@@ -51,6 +51,12 @@
 | <image src="./2024_rules/Character_Examples/images/DnD_2024_PC_Druid_Female.webp" style="float:left;" width="25px" height="25px">&nbsp; [Druid](./2024_rules/Character_Examples/DnD_2024_PC_Druid.pdf)                   | Moon         | Sage     | Elf (Wood)   | [Elara](./2024_rules/Character_Examples/DnD_2024_PC_Druid_Female.md)      |
 | <image src="./2024_rules/Character_Examples/images/DnD_2024_PC_Sorceror_Female.webp" style="float:left;" width="25px" height="25px">&nbsp; [Sorceror](./2024_rules/Character_Examples/DnD_2024_PC_Sorceror_Female.pdf)   | Clockwork    | Tinker   | Gnome (Rock) | [Dixie](./2024_rules/Character_Examples/DnD_2024_PC_Sorceror_Female.md)   |
 
+- Vasara: Thief, Healer, Fighter; Dex & Wis Skills
+- Jynx: Fighter, Thief; Dex skills
+- Elara: Spellcaster, Healer
+- Dixie: Spellcaster; Int & Char Skills, Crafting (Tinker); face of the party
+- Interesting dynamics between the lawful neutral & chaotic neutral characters
+
 ## **Another classic option**
 
 | Class                                                                                                                                                                                                                 | Subclass               | Origin    | Species           | Background                                                               |
