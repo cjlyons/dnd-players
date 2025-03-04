@@ -6,6 +6,7 @@
   - [**The Classic Party**](#the-classic-party)
   - [**All Spellcasters**](#all-spellcasters)
   - [**Dark themed party**](#dark-themed-party)
+  - [**Sneaky**](#sneaky)
   - [**Another classic option**](#another-classic-option)
 
 ## **The Classic Party**
@@ -40,6 +41,15 @@
 - Ranger: Thief, Healer, Fighter; Dex & Wis Skills
 - Wizard: Spellcaster; Int Skills, Crafting
 - Interesting dynamics between the lawful neutral & chaotic neutral characters
+
+## **Sneaky**
+
+| Class                                                                                                                                                                                                                    | Subclass     | Origin   | Species      | Background                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | -------- | ------------ | ------------------------------------------------------------------------- |
+| <image src="./2024_rules/Character_Examples/images/DnD_2024_PC_Ranger_Drow_Female.webp" style="float:left;" width="25px" height="25px">&nbsp; [Ranger](./2024_rules/Character_Examples/DnD_2024_PC_Ranger.pdf)           | Gloomstalker | Criminal | Drow         | [Vasara](./2024_rules/Character_Examples/DnD_2024_PC_Ranger_Female.md)    |
+| <image src="./2024_rules/Character_Examples/images/DnD_2024_PC_Monk_Tabaxi_Female.webp" style="float:left;" width="25px" height="25px">&nbsp; [Monk](./2024_rules/Character_Examples/DnD_2024_PC_Monk_Shadow_Female.pdf) | Shadow       | Criminal | Tabaxi       | [Jynx](./2024_rules/Character_Examples/DnD_2024_PC_Monk_Shadow_Female.md) |
+| <image src="./2024_rules/Character_Examples/images/DnD_2024_PC_Druid_Female.webp" style="float:left;" width="25px" height="25px">&nbsp; [Druid](./2024_rules/Character_Examples/DnD_2024_PC_Druid.pdf)                   | Moon         | Sage     | Elf (Wood)   | [Elara](./2024_rules/Character_Examples/DnD_2024_PC_Druid_Female.md)      |
+| <image src="./2024_rules/Character_Examples/images/DnD_2024_PC_Sorceror_Female.webp" style="float:left;" width="25px" height="25px">&nbsp; [Sorceror](./2024_rules/Character_Examples/DnD_2024_PC_Sorceror_Female.pdf)   | Clockwork    | Tinker   | Gnome (Rock) | [Dixie](./2024_rules/Character_Examples/DnD_2024_PC_Sorceror_Female.md)   |
 
 ## **Another classic option**
 
