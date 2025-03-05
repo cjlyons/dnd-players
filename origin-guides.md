@@ -2,6 +2,26 @@
 
 # **D&D 2024 Origins: Backgrounds, Playstyles, and Ideal Classes**
 
+- [**D\&D 2024 Origins: Backgrounds, Playstyles, and Ideal Classes**](#dd-2024-origins-backgrounds-playstyles-and-ideal-classes)
+  - [**1. Acolyte** 🛐](#1-acolyte-)
+  - [**2. Artisan** 🛠️](#2-artisan-️)
+  - [**3. Charlatan** 🎭](#3-charlatan-)
+  - [**4. Criminal** 🕵️‍♂️](#4-criminal-️️)
+  - [**5. Entertainer** 🎶](#5-entertainer-)
+  - [**6. Farmer** 🌾](#6-farmer-)
+  - [**7. Guard** 🛡️](#7-guard-️)
+  - [**8. Guide** 🗺️](#8-guide-️)
+  - [**9. Hermit** 🏕️](#9-hermit-️)
+  - [**10. Merchant** 💰](#10-merchant-)
+  - [**11. Noble** 👑](#11-noble-)
+  - [**12. Sailor** ⚓](#12-sailor-)
+  - [**13. Scribe** 📜](#13-scribe-)
+  - [**14. Soldier** ⚔️](#14-soldier-️)
+  - [**15. Wayfarer** 🌍](#15-wayfarer-)
+  - [**16. Custom Origin: Tinker**](#16-custom-origin-tinker)
+    - [**Feature: Inspired Improvisation**](#feature-inspired-improvisation)
+    - [**Suggested Characteristics**](#suggested-characteristics)
+
 Each **Origin** in Dungeons & Dragons 2024 consists of a **Background** (defining a character's past) and an **Origin Feat** (granting a mechanical benefit). This system helps players align their character’s history with their playstyle and chosen class. Below is a breakdown of various **Origins**, their thematic playstyles, and the **classes that best suit them**.
 
 ---
@@ -153,3 +173,29 @@ Each **Origin** in Dungeons & Dragons 2024 consists of a **Background** (definin
 **🎲 Origin Feat:** _Traveler’s Instinct_ – Proficiency in Survival and Insight, with bonuses to resisting exhaustion.  
 **🏹 Best Classes:** **Monk, Ranger, Bard, Druid**  
 **✨ Ideal for Players Who:** Love **playing wanderers, seekers of wisdom, and free spirits**.
+
+---
+
+## **16. Custom Origin: Tinker**
+
+- Abilities: Dex, Char, Int
+- Feat: Skilled
+- Proficiencies: Arcana, Investigation
+- Tools: Tinker's Tools
+- Equipment: 50GP
+
+---
+
+_"Every great invention starts with a spark—sometimes of genius, sometimes of electricity, and sometimes from an unexpected explosion."_
+
+Tinkers are **inventors, mechanics, and visionaries** who see the world not just for what it is, but for what it _could_ be. Whether through **mechanical ingenuity, arcane experimentation, or sheer trial and error**, they constantly seek to **improve, modify, and create**. From **bustling city workshops to hidden laboratories,** from **traveling tinkers' caravans to arcane colleges**, these individuals thrive in environments where curiosity is rewarded and failure is just a step toward success.
+
+While many tinkers **study under master craftsmen, artificers, or arcane engineers**, others are **self-taught prodigies**, learning from discarded blueprints, scavenged parts, and a little reckless ambition. Whatever their methods, all share one thing in common: an **insatiable desire to push the boundaries of what is possible**—even if it means occasionally blowing something up along the way.
+
+#### **Feature: Inspired Improvisation**
+
+Tinkers have a knack for **jury-rigging solutions** out of whatever materials are available. Given access to simple tools and raw materials, a Tinker can **temporarily repair** a broken mechanism, create **a functional (but unstable) version of a common tool**, or make quick modifications to an existing device. While these fixes may not last forever, they often work _just long enough_ to get the job done. These items lasts for up to 10 minutes.
+
+#### **Suggested Characteristics**
+
+Tinkers tend to be **curious, energetic, and creative**—though their obsession with invention can sometimes make them **absentminded, impatient, or prone to overcomplicating simple tasks**. Some **pursue invention for the sake of progress**, while others seek **personal fame, wealth, or recognition**. Many tinkers feel most at home **in places of industry and innovation**, though some prefer **the open road, where new challenges await around every corner.**

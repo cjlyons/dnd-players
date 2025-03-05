@@ -4,16 +4,15 @@
 
 <image src="images/DnD_2024_PC_Sorceror_Female.webp" style="float:left;" width="200px" height="200px">
 
-|            |                                                 |               |                      |
-| ---------- | ----------------------------------------------- | ------------- | -------------------- |
-| **Hair**   | Coppery-red, auburn. Wild & Curly               | **Gender**    | Female               |
-| **Skin**   | Light peachy-olive with faint bronze undertones | **Alignment** | Chaotic Good         |
-| **Eyes**   | Bright golden-amber                             | **Species**   | Gnome (Rock)         |
-| **Height** | 3'2"                                            | **Origin**    | Tinker (Custom)      |
-| **Weight** | 65lbs                                           | **Class**     | Sorceror (Clockwork) |
+|            |                                                 |               |                                                                   |
+| ---------- | ----------------------------------------------- | ------------- | ----------------------------------------------------------------- |
+| **Hair**   | Coppery-red, auburn. Wild & Curly               | **Gender**    | Female                                                            |
+| **Skin**   | Light peachy-olive with faint bronze undertones | **Alignment** | Chaotic Good                                                      |
+| **Eyes**   | Bright golden-amber                             | **Species**   | Gnome (Rock)                                                      |
+| **Height** | 3'2"                                            | **Origin**    | [Tinker (Custom)](../../origin-guides.md#16-custom-origin-tinker) |
+| **Weight** | 65lbs                                           | **Class**     | Sorceror (Clockwork)                                              |
 
 - [**Dixie Tockspin**](#dixie-tockspin)
-  - [**Custom Origin: Tinker**](#custom-origin-tinker)
   - [**Appearance**](#appearance)
   - [**Back Story**](#back-story)
     - [**The Free City of Irongate**](#the-free-city-of-irongate)
@@ -27,16 +26,6 @@
     - [**Long-Term Aspirations**](#long-term-aspirations)
     - [**Personality and Beliefs**](#personality-and-beliefs)
     - [**Quirks, Whims, and Flaws**](#quirks-whims-and-flaws)
-
-## **Custom Origin: Tinker**
-
-This is a specialization of artisan that better matches the character traits I'm going for
-
-- Abilities: Dex, Char, Int
-- Feat: Skilled
-- Proficiencies: Arcana, Investigation
-- Tools: Tinker's Tools
-- Equipment: 50GP
 
 ## **Appearance**
 
