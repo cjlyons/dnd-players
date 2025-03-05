@@ -6,7 +6,7 @@
   - [**The Classic Party**](#the-classic-party)
   - [**All Spellcasters**](#all-spellcasters)
   - [**Dark themed party**](#dark-themed-party)
-  - [**Sneaky**](#sneaky)
+  - [**Small \& Sneaky**](#small--sneaky)
   - [**Another classic option**](#another-classic-option)
 
 ## **The Classic Party**
@@ -42,7 +42,7 @@
 - Wizard: Spellcaster; Int Skills, Crafting
 - Interesting dynamics between the lawful neutral & chaotic neutral characters
 
-## **Sneaky**
+## **Small & Sneaky**
 
 | Class                                                                                                                                                                                                                    | Subclass     | Origin   | Species      | Background                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | -------- | ------------ | ------------------------------------------------------------------------- |

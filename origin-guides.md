@@ -18,7 +18,7 @@
   - [**13. Scribe** 📜](#13-scribe-)
   - [**14. Soldier** ⚔️](#14-soldier-️)
   - [**15. Wayfarer** 🌍](#15-wayfarer-)
-  - [**16. Custom Origin: Tinker**](#16-custom-origin-tinker)
+  - [**16. Custom Origin: Tinker** ⚙️](#16-custom-origin-tinker-️)
     - [**Feature: Inspired Improvisation**](#feature-inspired-improvisation)
     - [**Suggested Characteristics**](#suggested-characteristics)
 
@@ -176,7 +176,7 @@ Each **Origin** in Dungeons & Dragons 2024 consists of a **Background** (definin
 
 ---
 
-## **16. Custom Origin: Tinker**
+## **16. Custom Origin: Tinker** ⚙️
 
 - Abilities: Dex, Char, Int
 - Feat: Skilled
