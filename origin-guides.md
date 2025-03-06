@@ -19,8 +19,11 @@
   - [**14. Soldier** ⚔️](#14-soldier-️)
   - [**15. Wayfarer** 🌍](#15-wayfarer-)
   - [**16. Custom Origin: Tinker** ⚙️](#16-custom-origin-tinker-️)
-    - [**Feature: Inspired Improvisation**](#feature-inspired-improvisation)
     - [**Suggested Characteristics**](#suggested-characteristics)
+- [**Custom Origin Feats**](#custom-origin-feats)
+  - [**Origin Feat: Tinker**](#origin-feat-tinker)
+    - [**Skills and Proficiencies**](#skills-and-proficiencies)
+    - [**Inspired Improvisation**](#inspired-improvisation)
 
 Each **Origin** in Dungeons & Dragons 2024 consists of a **Background** (defining a character's past) and an **Origin Feat** (granting a mechanical benefit). This system helps players align their character’s history with their playstyle and chosen class. Below is a breakdown of various **Origins**, their thematic playstyles, and the **classes that best suit them**.
 
@@ -179,7 +182,7 @@ Each **Origin** in Dungeons & Dragons 2024 consists of a **Background** (definin
 ## **16. Custom Origin: Tinker** ⚙️
 
 - Abilities: Dex, Char, Int
-- Feat: Skilled
+- Feat: Tinker
 - Proficiencies: Arcana, Investigation
 - Tools: Tinker's Tools
 - Equipment: 50GP
@@ -192,10 +195,18 @@ Tinkers are **inventors, mechanics, and visionaries** who see the world not just
 
 While many tinkers **study under master craftsmen, artificers, or arcane engineers**, others are **self-taught prodigies**, learning from discarded blueprints, scavenged parts, and a little reckless ambition. Whatever their methods, all share one thing in common: an **insatiable desire to push the boundaries of what is possible**—even if it means occasionally blowing something up along the way.
 
-#### **Feature: Inspired Improvisation**
-
-Tinkers have a knack for **jury-rigging solutions** out of whatever materials are available. Given access to simple tools and raw materials, a Tinker can **temporarily repair** a broken mechanism, create **a functional (but unstable) version of a common tool**, or make quick modifications to an existing device. While these fixes may not last forever, they often work _just long enough_ to get the job done. These items lasts for up to 10 minutes.
-
 #### **Suggested Characteristics**
 
 Tinkers tend to be **curious, energetic, and creative**—though their obsession with invention can sometimes make them **absentminded, impatient, or prone to overcomplicating simple tasks**. Some **pursue invention for the sake of progress**, while others seek **personal fame, wealth, or recognition**. Many tinkers feel most at home **in places of industry and innovation**, though some prefer **the open road, where new challenges await around every corner.**
+
+# **Custom Origin Feats**
+
+## **Origin Feat: Tinker**
+
+### **Skills and Proficiencies**
+
+Pick any 3 that make sense for you back story: Intelligency, Wisdom, or Charisma Skills; Artisan Tools
+
+### **Inspired Improvisation**
+
+Tinkers have a knack for **jury-rigging solutions** out of whatever materials are available. Given access to simple tools and raw materials, a Tinker can **temporarily repair** a broken mechanism, create **a functional (but unstable) version of a common tool**, or make quick modifications to an existing device. While these fixes may not last forever, they often work _just long enough_ to get the job done. These items lasts for up to 1 day.
