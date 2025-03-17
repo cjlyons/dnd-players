@@ -2,9 +2,9 @@
 
 # The Mission
 
-## Corruption in High Eyry
+## Corruption in High Ery
 
-The village of High Eyry sat nestled in the rolling hills north of the Selintan River, its people growing anxious as the once-pristine stream darkened with foul-smelling scum. Their crops wilted, their livestock sickened, and the elders whispered of an unnatural corruption creeping through the land. When word reached the Free City of Greyhawk, a summons found its way to four unlikely heroes.
+The village of High Ery sat nestled in the rolling hills north of the Selintan River, its people growing anxious as the once-pristine stream darkened with foul-smelling scum. Their crops wilted, their livestock sickened, and the elders whispered of an unnatural corruption creeping through the land. When word reached the Free City of Greyhawk, a summons found its way to four unlikely heroes.
 
 ## The Call to Action
 
